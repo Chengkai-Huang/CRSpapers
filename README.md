@@ -8,7 +8,7 @@ This repo contains conversational recommender system papers.
 - [`arXiv 2021`] Deep Conversational Recommender System:A New Frontier for Goal-Oriented Dialogue Systems. Dai Hoang Tran, Quan Z. Sheng, Wei Emma Zhang, Salma Abdalla Hamad, Munazza Zaib, Nguyen H. Tran, Lina Yao & Nguyen Lu Dang Khoa [[pdf](https://arxiv.org/pdf/2004.13245.pdf)]
 
 ## [[02-Regular papers](https://github.com/Chengkai-Huang/CRSpapers/edit/main/README.md)]
-- [`ACL 2021`] You Sound Like Someone Who Watches Drama Movies: Towards Predicting Movie Preferences from Conversational Interactions. S Volokhin, J Ho，O Rokhlenko, E Agichtein [[pdf](https://aclanthology.org/2021.naacl-main.246.pdf)][[video](https://underline.io/events/122/sessions/4208/lecture/20062-you-sound-like-someone-who-watches-drama-movies-towards-predicting-movie-preferences-from-conversational-interactions)]
+- [`ACL 2021`] You Sound Like Someone Who Watches Drama Movies: Towards Predicting Movie Preferences from Conversational Interactions. S Volokhin, J Ho，O Rokhlenko, E Agichtein [[pdf](https://aclanthology.org/2021.naacl-main.246.pdf)] [[video](https://underline.io/events/122/sessions/4208/lecture/20062-you-sound-like-someone-who-watches-drama-movies-towards-predicting-movie-preferences-from-conversational-interactions)]
 
 
 
