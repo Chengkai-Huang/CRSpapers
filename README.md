@@ -14,8 +14,8 @@ This repo contains conversational recommender system papers.
  
 - Contributions:
  
-  - 1. Development of a public conversational dataset **MovieSent** [[link](https://github.com/sergey-volokhin/conversational-movies)] 
-  - 2. A new conversational recommendation method **ConvExtr**:
+  - Development of a public conversational dataset **MovieSent** [[link](https://github.com/sergey-volokhin/conversational-movies)] 
+  - A new conversational recommendation method **ConvExtr**:
     - Estimates user's sentiment towards first 2 movies.
     - Uses External dataset of reviwes to predict user score towards the 3rd movie.
 
