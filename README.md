@@ -22,6 +22,7 @@ This repo contains conversational recommender system papers.
 
 </details>
 
+- [`COLING 2020`] User Memory Reasoning for Conversational Recommendation. Hu Xu, Seungwhan Moon, Honglei Liu, Bing Liu, Pararth Shah, Bing Liu, Philip S. Yu [[pdf](https://aclanthology.org/2020.coling-main.463.pdf)]
 
 
 
