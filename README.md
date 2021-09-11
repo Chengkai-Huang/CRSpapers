@@ -26,6 +26,6 @@ This repo contains conversational recommender system papers.
 
 
 ## [[03-Video material](https://github.com/Chengkai-Huang/CRSpapers/edit/main/README.md)]
-- Web, IR and NLP Public Reading Group. Min-Yen Kan [[video](https://wing-nus.github.io/cs6101/)]
+- Web, IR and NLP Public Reading Group. Min-Yen Kan [[video](https://wing-nus.github.io/cs6101/)] [[group](https://github.com/wing-nus)]
 
 
