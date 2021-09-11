@@ -11,7 +11,7 @@ This repo contains conversational recommender system papers.
 - [`ACL 2021`] You Sound Like Someone Who Watches Drama Movies: Towards Predicting Movie Preferences from Conversational Interactions. S Volokhin, J Ho，O Rokhlenko, E Agichtein [[pdf](https://aclanthology.org/2021.naacl-main.246.pdf)] [[video](https://underline.io/events/122/sessions/4208/lecture/20062-you-sound-like-someone-who-watches-drama-movies-towards-predicting-movie-preferences-from-conversational-interactions)] 
 
 <details>
-<summary><font size="3" color="red">Click to expand</font></summary>
+<summary>Click to expand</summary>
  
 - Contributions:
  
