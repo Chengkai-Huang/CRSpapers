@@ -23,14 +23,15 @@ This repo contains conversational recommender system papers.
 </details>
 
 - [`arxiv 2021`] CRSLab: An Open-Source Toolkit for Building Conversational Recommender System. Kun Zhou, Xiaolei Wang, Yuanhang Zhou, Chenzhan Shang, Yuan Cheng, Wayne Xin Zhao, Yaliang Li, Ji-Rong Wen [[pdf](https://arxiv.org/pdf/2101.00939.pdf)] [[toolkit](https://github.com/RUCAIBox/CRSLab)]
-- [`WSDM 2020`] Estimation–Action–Reflection: Towards Deep Interaction Between Conversational and Recommender Systems. Wenqiang Lei, Xiangnan He, Yisong Miao, Qingyun Wu, Richang Hong, Min-Yen Kan, Tat-Seng Chua. [[pdf](https://arxiv.org/pdf/2002.09102.pdf)] [[code](https://ear-conv-rec.github.io/manual.html)]
 - [`CIKM 2020`] Leveraging Historical Interaction Data for Improving Conversational Recommender System. Kun Zhou, Wayne Xin Zhao, Hui Wang, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang and Ji-Rong Wen [[pdf](https://arxiv.org/pdf/2008.08247.pdf)] `Sequential recommendation`
-- [`TOIS 2021`] Seamlessly Unifying Attributes and Items: Conversational Recommendation for Cold-Start Users. Shijun Li, Wenqiang Lei, Qingyun Wu, Xiangnan He, Peng Jiang, and Tat-seng Chua [[pdf](https://arxiv.org/pdf/2005.12979.pdf)] `Thompson sampling` 
 - [`Resys 2021`] Large-scale Interactive Conversational Recommendation System using Actor-Critic Framework. Ali Montazeralghaem, James Allan & Philip S. Thomas [[pdf](https://maroo.cs.umass.edu/pub/web/getpdf.php?id=1418)] `Actor-Critic`
 - [`SIGIR 2021`] Comparison-based Conversational Recommender System with Relative Bandit Feedback. Zhihui Xie，Tong Yu，Canzhe Zhao，Shuai Li. [[pdf](https://dl.acm.org/doi/10.1145/3404835.3462920)]
+
+### RL-based CRS
+- [`SIGIR 2018`] Conversational Recommender System. Yueming Sun, Yi Zhang. [[pdf](https://arxiv.org/pdf/1806.03277.pdf)]
+- [`WSDM 2020`] Estimation–Action–Reflection: Towards Deep Interaction Between Conversational and Recommender Systems. Wenqiang Lei, Xiangnan He, Yisong Miao, Qingyun Wu, Richang Hong, Min-Yen Kan, Tat-Seng Chua. [[pdf](https://arxiv.org/pdf/2002.09102.pdf)] [[code](https://ear-conv-rec.github.io/manual.html)]
+- [`TOIS 2021`] Seamlessly Unifying Attributes and Items: Conversational Recommendation for Cold-Start Users. Shijun Li, Wenqiang Lei, Qingyun Wu, Xiangnan He, Peng Jiang, and Tat-seng Chua [[pdf](https://arxiv.org/pdf/2005.12979.pdf)] `Thompson sampling` 
 - [`SIGIR 2021`] Unified Conversational Recommendation Policy Learning via Graph-based Reinforcement Learning. Yang Deng, Yaliang Li, Fei Sun, Bolin Ding & Wai Lam. [[pdf](https://arxiv.org/pdf/2105.09710.pdf)]
-
-
 
 ### Explainable/Reasoning CRS
 - [`COLING 2020`] User Memory Reasoning for Conversational Recommendation. Hu Xu, Seungwhan Moon, Honglei Liu, Bing Liu, Pararth Shah, Bing Liu, Philip S. Yu [[pdf](https://aclanthology.org/2020.coling-main.463.pdf)]
