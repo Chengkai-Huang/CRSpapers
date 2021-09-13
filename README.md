@@ -27,7 +27,11 @@ This repo contains conversational recommender system papers.
 `This paper builds a user-centric dialogue system for conversational recommendation.(5.1k dialogues, 26k turns)`
 - ['arxiv 2021'] CRSLab: An Open-Source Toolkit for Building Conversational Recommender System. Kun Zhou, Xiaolei Wang, Yuanhang Zhou, Chenzhan Shang, Yuan Cheng, Wayne Xin Zhao, Yaliang Li, Ji-Rong Wen [[pdf](https://arxiv.org/pdf/2101.00939.pdf)] [[toolkit](https://github.com/RUCAIBox/CRSLab)]
 - ['CIKM 2020'] Leveraging Historical Interaction Data for Improving Conversational Recommender System. Kun Zhou, Wayne Xin Zhao, Hui Wang, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang and Ji-Rong Wen [[pdf](https://arxiv.org/pdf/2008.08247.pdf)] `Sequential recommendation`
-- []
+
+### Knowledge-based CRS
+- [`SIGIR 21`] Learning to Ask Appropriate Questions in Conversational Recommendation. Xuhui Ren，Hongzhi Yin，Tong Chen，Hao Wang，Kai Zheng. [[pdf](https://arxiv.org/pdf/2105.04774.pdf)] [[code](https://github.com/XuhuiRen/KBQG)] `TransH`
+- 
+
 
 ## [[03-Video material](https://github.com/Chengkai-Huang/CRSpapers/edit/main/README.md)]
 - Web, IR and NLP Public Reading Group. Min-Yen Kan [[video](https://wing-nus.github.io/cs6101/)] [[group](https://github.com/wing-nus)]
