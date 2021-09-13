@@ -25,10 +25,16 @@ This repo contains conversational recommender system papers.
 - [`COLING 2020`] User Memory Reasoning for Conversational Recommendation. Hu Xu, Seungwhan Moon, Honglei Liu, Bing Liu, Pararth Shah, Bing Liu, Philip S. Yu [[pdf](https://aclanthology.org/2020.coling-main.463.pdf)]
 - [`arxiv 2020`] NUANCED: Natural Utterance Annotation for Nuanced Conversation with Estimated Distributions [[pdf](https://arxiv.org/pdf/2010.12758.pdf)] [[dataset](https://github.com/facebookresearch/nuanced)]
 `This paper builds a user-centric dialogue system for conversational recommendation.(5.1k dialogues, 26k turns)`
-
-
+- ['arxiv 2021'] CRSLab: An Open-Source Toolkit for Building Conversational Recommender System. Kun Zhou, Xiaolei Wang, Yuanhang Zhou, Chenzhan Shang, Yuan Cheng, Wayne Xin Zhao, Yaliang Li, Ji-Rong Wen [[pdf](https://arxiv.org/pdf/2101.00939.pdf) [toolkit](https://github.com/RUCAIBox/CRSLab)]
+- ['CIKM 2020'] Leveraging Historical Interaction Data for Improving Conversational Recommender System. Kun Zhou, Wayne Xin Zhao, Hui Wang, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang and Ji-Rong Wen [[pdf](https://arxiv.org/pdf/2008.08247.pdf)] 'sequential recommendation'
+- []
 
 ## [[03-Video material](https://github.com/Chengkai-Huang/CRSpapers/edit/main/README.md)]
 - Web, IR and NLP Public Reading Group. Min-Yen Kan [[video](https://wing-nus.github.io/cs6101/)] [[group](https://github.com/wing-nus)]
+
+
+## [[04-Conference tutorial](https://github.com/Chengkai-Huang/CRSpapers/edit/main/README.md)]
+- [RecSys 2020, WSDM 2021, IUI 2021] Tutorial on Conversational Recommendation Systems. Yongfeng Zhang [[website](https://conversational-recsys.github.io/)]
+
 
 
