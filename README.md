@@ -26,7 +26,7 @@ This repo contains conversational recommender system papers.
 - [`arxiv 2020`] NUANCED: Natural Utterance Annotation for Nuanced Conversation with Estimated Distributions [[pdf](https://arxiv.org/pdf/2010.12758.pdf)] [[dataset](https://github.com/facebookresearch/nuanced)]
 `This paper builds a user-centric dialogue system for conversational recommendation.(5.1k dialogues, 26k turns)`
 - ['arxiv 2021'] CRSLab: An Open-Source Toolkit for Building Conversational Recommender System. Kun Zhou, Xiaolei Wang, Yuanhang Zhou, Chenzhan Shang, Yuan Cheng, Wayne Xin Zhao, Yaliang Li, Ji-Rong Wen [[pdf](https://arxiv.org/pdf/2101.00939.pdf) [toolkit](https://github.com/RUCAIBox/CRSLab)]
-- ['CIKM 2020'] Leveraging Historical Interaction Data for Improving Conversational Recommender System. Kun Zhou, Wayne Xin Zhao, Hui Wang, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang and Ji-Rong Wen [[pdf](https://arxiv.org/pdf/2008.08247.pdf)] 'sequential recommendation'
+- ['CIKM 2020'] Leveraging Historical Interaction Data for Improving Conversational Recommender System. Kun Zhou, Wayne Xin Zhao, Hui Wang, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang and Ji-Rong Wen [[pdf](https://arxiv.org/pdf/2008.08247.pdf)] `Sequential recommendation`
 - []
 
 ## [[03-Video material](https://github.com/Chengkai-Huang/CRSpapers/edit/main/README.md)]
