@@ -23,6 +23,7 @@ This repo contains conversational recommender system papers.
 </details>
 
 - [`arxiv 2021`] CRSLab: An Open-Source Toolkit for Building Conversational Recommender System. Kun Zhou, Xiaolei Wang, Yuanhang Zhou, Chenzhan Shang, Yuan Cheng, Wayne Xin Zhao, Yaliang Li, Ji-Rong Wen [[pdf](https://arxiv.org/pdf/2101.00939.pdf)] [[toolkit](https://github.com/RUCAIBox/CRSLab)]
+- [`WSDM 2020`] Estimation–Action–Reflection: Towards Deep Interaction Between Conversational and Recommender Systems. Wenqiang Lei, Xiangnan He, Yisong Miao, Qingyun Wu, Richang Hong, Min-Yen Kan, Tat-Seng Chua. [[pdf](https://arxiv.org/pdf/2002.09102.pdf)] [[code](https://ear-conv-rec.github.io/manual.html)]
 - [`CIKM 2020`] Leveraging Historical Interaction Data for Improving Conversational Recommender System. Kun Zhou, Wayne Xin Zhao, Hui Wang, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang and Ji-Rong Wen [[pdf](https://arxiv.org/pdf/2008.08247.pdf)] `Sequential recommendation`
 - [`TOIS 2021`] Seamlessly Unifying Attributes and Items: Conversational Recommendation for Cold-Start Users. Shijun Li, Wenqiang Lei, Qingyun Wu, Xiangnan He, Peng Jiang, and Tat-seng Chua [[pdf](https://arxiv.org/pdf/2005.12979.pdf)] `Thompson sampling` 
 - [`Resys 2021`] Large-scale Interactive Conversational Recommendation System using Actor-Critic Framework. Ali Montazeralghaem, James Allan & Philip S. Thomas [[pdf](https://maroo.cs.umass.edu/pub/web/getpdf.php?id=1418)] `Actor-Critic`
