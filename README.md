@@ -31,7 +31,7 @@ This repo contains conversational recommender system papers.
 ### Knowledge-based CRS
 - [`EMNLP 2019`] Towards Knowledge-Based Recommender Dialog System. Qibin Chen, Junyang Lin, Yichang Zhang, Ming Ding, Yukuo Cen, Hongxia Yang, Jie Tang [[pdf](https://aclanthology.org/D19-1189.pdf)] [[code](https://github.com/THUDM/KBRD)] `Dbpedia` [`RGCN`]()
 - [`SIGIR 2021`] Learning to Ask Appropriate Questions in Conversational Recommendation. Xuhui Ren，Hongzhi Yin，Tong Chen，Hao Wang，Kai Zheng. [[pdf](https://arxiv.org/pdf/2105.04774.pdf)] [[code](https://github.com/XuhuiRen/KBQG)] `TransH`
-- [`WSDM 2021`] Adapting User Preference to Online Feedback in Multi-round Conversational Recommendation. Kerui Xu, Jingxuan Yang, Jun Xu, Sheng Gao, Jun Guo, Ji-Rong Wen[[pdf](https://dl.acm.org/doi/abs/10.1145/3437963.3441791)]
+- [`WSDM 2021`] Adapting User Preference to Online Feedback in Multi-round Conversational Recommendation. Kerui Xu, Jingxuan Yang, Jun Xu, Sheng Gao, Jun Guo, Ji-Rong Wen [[pdf](https://dl.acm.org/doi/abs/10.1145/3437963.3441791)] [[code](https://github.com/xxkkrr/FPAN)]
 
 ## [[03-Video material](https://github.com/Chengkai-Huang/CRSpapers/edit/main/README.md)]
 - Web, IR and NLP Public Reading Group. Min-Yen Kan [[video](https://wing-nus.github.io/cs6101/)] [[group](https://github.com/wing-nus)]
