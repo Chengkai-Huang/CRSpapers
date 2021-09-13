@@ -37,6 +37,7 @@ This repo contains conversational recommender system papers.
 `This paper builds a user-centric dialogue system for conversational recommendation.(5.1k dialogues, 26k turns)`
 - [`IJCAI 2020`] Towards Explainable Conversational Recommendation. Zhongxia Chen, Xiting Wang, Xing Xie, Mehul Parsana,Akshay Soni, Xiang Ao & Enhong Chen [[pdf](https://www.ijcai.org/proceedings/2020/0414.pdf)]
 - [`SIGIR 2021`] HOOPS: Human-in-the-Loop Graph Reasoning for Conversational Recommendation. Zuohui Fu, Yikun Xian, Yaxin Zhu, Shuyuan Xu, Zelong Li, Gerard de Melo and Yongfeng Zhang. [[pdf](http://yongfeng.me/attach/fu-sigir2021.pdf)] [[dataset](https://github.com/zuohuif/HOOPS)]
+- [`CIKM 2021`] Popcorn: Human-in-the-loop Popularity Debiasing in Conversational Recommender Systems. Zuohui Fu, Yikun Xian, Shijie Geng, Gerard de Melo and Yongfeng Zhang.
 
 
 
@@ -45,6 +46,8 @@ This repo contains conversational recommender system papers.
 - [`SIGIR 2021`] Learning to Ask Appropriate Questions in Conversational Recommendation. Xuhui Ren，Hongzhi Yin，Tong Chen，Hao Wang，Kai Zheng. [[pdf](https://arxiv.org/pdf/2105.04774.pdf)] [[code](https://github.com/XuhuiRen/KBQG)] `TransH`
 - [`WSDM 2021`] Adapting User Preference to Online Feedback in Multi-round Conversational Recommendation. Kerui Xu, Jingxuan Yang, Jun Xu, Sheng Gao, Jun Guo, Ji-Rong Wen [[pdf](https://dl.acm.org/doi/abs/10.1145/3437963.3441791)] [[code](https://github.com/xxkkrr/FPAN)]
 
+### Human-computer Interaction
+- [`CHI 2021`] Developing a Conversational Recommendation System for Navigating Limited Options. [[pdf](https://arxiv.org/pdf/2104.06552.pdf)]
 
 ## [[03-Video material](https://github.com/Chengkai-Huang/CRSpapers/edit/main/README.md)]
 - Web, IR and NLP Public Reading Group. Min-Yen Kan [[video](https://wing-nus.github.io/cs6101/)] [[group](https://github.com/wing-nus)]
