@@ -25,18 +25,26 @@ This repo contains conversational recommender system papers.
 - [`arxiv 2021`] CRSLab: An Open-Source Toolkit for Building Conversational Recommender System. Kun Zhou, Xiaolei Wang, Yuanhang Zhou, Chenzhan Shang, Yuan Cheng, Wayne Xin Zhao, Yaliang Li, Ji-Rong Wen [[pdf](https://arxiv.org/pdf/2101.00939.pdf)] [[toolkit](https://github.com/RUCAIBox/CRSLab)]
 - [`CIKM 2020`] Leveraging Historical Interaction Data for Improving Conversational Recommender System. Kun Zhou, Wayne Xin Zhao, Hui Wang, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang and Ji-Rong Wen [[pdf](https://arxiv.org/pdf/2008.08247.pdf)] `Sequential recommendation`
 - [`TOIS 2021`] Seamlessly Unifying Attributes and Items: Conversational Recommendation for Cold-Start Users. Shijun Li, Wenqiang Lei, Qingyun Wu, Xiangnan He, Peng Jiang, and Tat-seng Chua [[pdf](https://arxiv.org/pdf/2005.12979.pdf)] `Thompson sampling` 
+- [`Resys 2021`] Large-scale Interactive Conversational Recommendation System using Actor-Critic Framework. Ali Montazeralghaem, James Allan & Philip S. Thomas [[pdf](https://maroo.cs.umass.edu/pub/web/getpdf.php?id=1418)] `Actor-Critic`
+- [`SIGIR 2021`] Comparison-based Conversational Recommender System with Relative Bandit Feedback. Zhihui Xie，Tong Yu，Canzhe Zhao，Shuai Li. [[pdf](https://dl.acm.org/doi/10.1145/3404835.3462920)]
+- [`SIGIR 2021`] Unified Conversational Recommendation Policy Learning via Graph-based Reinforcement Learning. Yang Deng, Yaliang Li, Fei Sun, Bolin Ding & Wai Lam. [[pdf](https://arxiv.org/pdf/2105.09710.pdf)]
+
+
 
 ### Explainable/Reasoning CRS
 - [`COLING 2020`] User Memory Reasoning for Conversational Recommendation. Hu Xu, Seungwhan Moon, Honglei Liu, Bing Liu, Pararth Shah, Bing Liu, Philip S. Yu [[pdf](https://aclanthology.org/2020.coling-main.463.pdf)]
 - [`arxiv 2020`] NUANCED: Natural Utterance Annotation for Nuanced Conversation with Estimated Distributions [[pdf](https://arxiv.org/pdf/2010.12758.pdf)] [[dataset](https://github.com/facebookresearch/nuanced)]
 `This paper builds a user-centric dialogue system for conversational recommendation.(5.1k dialogues, 26k turns)`
 - [`IJCAI 2020`] Towards Explainable Conversational Recommendation. Zhongxia Chen, Xiting Wang, Xing Xie, Mehul Parsana,Akshay Soni, Xiang Ao & Enhong Chen [[pdf](https://www.ijcai.org/proceedings/2020/0414.pdf)]
+- [`SIGIR 2021`] HOOPS: Human-in-the-Loop Graph Reasoning for Conversational Recommendation. Zuohui Fu, Yikun Xian, Yaxin Zhu, Shuyuan Xu, Zelong Li, Gerard de Melo and Yongfeng Zhang. [[pdf](http://yongfeng.me/attach/fu-sigir2021.pdf)] [[dataset](https://github.com/zuohuif/HOOPS)]
+
 
 
 ### Knowledge-based CRS
 - [`EMNLP 2019`] Towards Knowledge-Based Recommender Dialog System. Qibin Chen, Junyang Lin, Yichang Zhang, Ming Ding, Yukuo Cen, Hongxia Yang, Jie Tang [[pdf](https://aclanthology.org/D19-1189.pdf)] [[code](https://github.com/THUDM/KBRD)] `Dbpedia` [`RGCN`]()
 - [`SIGIR 2021`] Learning to Ask Appropriate Questions in Conversational Recommendation. Xuhui Ren，Hongzhi Yin，Tong Chen，Hao Wang，Kai Zheng. [[pdf](https://arxiv.org/pdf/2105.04774.pdf)] [[code](https://github.com/XuhuiRen/KBQG)] `TransH`
 - [`WSDM 2021`] Adapting User Preference to Online Feedback in Multi-round Conversational Recommendation. Kerui Xu, Jingxuan Yang, Jun Xu, Sheng Gao, Jun Guo, Ji-Rong Wen [[pdf](https://dl.acm.org/doi/abs/10.1145/3437963.3441791)] [[code](https://github.com/xxkkrr/FPAN)]
+
 
 ## [[03-Video material](https://github.com/Chengkai-Huang/CRSpapers/edit/main/README.md)]
 - Web, IR and NLP Public Reading Group. Min-Yen Kan [[video](https://wing-nus.github.io/cs6101/)] [[group](https://github.com/wing-nus)]
