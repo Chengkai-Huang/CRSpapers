@@ -40,8 +40,7 @@ This repo contains conversational recommender system papers.
 - [`IJCAI 2020`] Towards Explainable Conversational Recommendation. Zhongxia Chen, Xiting Wang, Xing Xie, Mehul Parsana,Akshay Soni, Xiang Ao & Enhong Chen [[pdf](https://www.ijcai.org/proceedings/2020/0414.pdf)]
 - [`SIGIR 2021`] HOOPS: Human-in-the-Loop Graph Reasoning for Conversational Recommendation. Zuohui Fu, Yikun Xian, Yaxin Zhu, Shuyuan Xu, Zelong Li, Gerard de Melo and Yongfeng Zhang. [[pdf](http://yongfeng.me/attach/fu-sigir2021.pdf)] [[dataset](https://github.com/zuohuif/HOOPS)]
 - [`CIKM 2021`] Popcorn: Human-in-the-loop Popularity Debiasing in Conversational Recommender Systems. Zuohui Fu, Yikun Xian, Shijie Geng, Gerard de Melo and Yongfeng Zhang.
-
-
+- [`EMNLP 2021`] CR-Walker: Tree-Structured Graph Reasoning and Dialog Acts for Conversational Recommendation. Ryuichi Takanobu, Wenchang Ma* and Minlie Huang. [[pdf](https://truthless11.github.io/pdf/CRWalker.pdf)] [[code](https://github.com/truthless11/CR-Walker)]
 
 ### Knowledge-based CRS
 - [`EMNLP 2019`] Towards Knowledge-Based Recommender Dialog System. Qibin Chen, Junyang Lin, Yichang Zhang, Ming Ding, Yukuo Cen, Hongxia Yang, Jie Tang [[pdf](https://aclanthology.org/D19-1189.pdf)] [[code](https://github.com/THUDM/KBRD)] `Dbpedia` [`RGCN`]()
@@ -50,6 +49,10 @@ This repo contains conversational recommender system papers.
 
 ### Human-computer Interaction
 - [`CHI 2021`] Developing a Conversational Recommendation System for Navigating Limited Options. [[pdf](https://arxiv.org/pdf/2104.06552.pdf)]
+
+### Other
+- [`TKDE 2020`] Deep Conversational Recommender in Travel. Lizi Liao, Ryuichi Takanobu, Yunshan Ma, Xun Yang, Minlie Huang and Tat-Seng Chua [[pdf](https://truthless11.github.io/pdf/DCR.pdf)]
+
 
 ## [[03-Video material](https://github.com/Chengkai-Huang/CRSpapers/edit/main/README.md)]
 - Web, IR and NLP Public Reading Group. Min-Yen Kan [[video](https://wing-nus.github.io/cs6101/)] [[group](https://github.com/wing-nus)]
